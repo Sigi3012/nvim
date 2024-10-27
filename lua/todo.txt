@@ -1,0 +1,8 @@
+https://github.com/folke/edgy.nvim
+
+hotkeys for nvim-dap
+actually work out cmp
+customise homepage
+customise satellite
+colour theme switcher
+git settings for nvim-tree
